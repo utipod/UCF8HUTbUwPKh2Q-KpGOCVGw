@@ -489,7 +489,7 @@ https://twitter.com/CNBCi</description>
       <source>https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw</source>
       <author>CNBC International TV</author>
       <link>https://www.youtube.com/watch?v=7cRKLgqJ1Ck</link>
-      <enclosure url="http://utubeipod.xyz:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/7cRKLgqJ1Ck.mkv" length="153" type="text/html"/>
+      <enclosure url="http://utubeipod.xyz:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/7cRKLgqJ1Ck.mkv" length="157" type="text/html"/>
       <itunes:image href="https://i.ytimg.com/vi/7cRKLgqJ1Ck/maxresdefault.jpg"/>
     </item>
     <item>
@@ -1271,6 +1271,18 @@ https://twitter.com/CNBCi</description>
       <link>https://www.youtube.com/watch?v=MJWmRS7s9YU</link>
       <enclosure url="http://utubeipod.xyz:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/MJWmRS7s9YU.mp4" length="8123917" type="video/mp4"/>
       <itunes:image href="https://i.ytimg.com/vi/MJWmRS7s9YU/maxresdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[CNBC's Silvia Amaro reports from an EU summit amid pressures on the banking sector.]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA[EU leaders gather in Brussels as pressures in the banking sector drag]]></title>
+      <guid>MM8Z_ZU8rr8</guid>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw</source>
+      <author>CNBC International TV</author>
+      <link>https://www.youtube.com/watch?v=MM8Z_ZU8rr8</link>
+      <enclosure url="http://utubeipod.xyz:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/v/MM8Z_ZU8rr8.mkv" length="73323485" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/MM8Z_ZU8rr8/maxresdefault.jpg"/>
     </item>
     <item>
       <description><![CDATA[CNBC's Ted Kemp discusses China's objections to the AUKUS naval partnership between Australia, the UK and the United States]]></description>
