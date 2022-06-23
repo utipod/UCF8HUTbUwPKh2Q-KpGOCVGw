@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>CNBC International TV</title>
+    <link>https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw</link>
+    <description>CNBC is the recognized world leader in business news and provides real-time financial market coverage and business information to approximately 385 million homes worldwide.
+
+With international headquarters in London and Singapore, CNBC International covers news and features from Europe, the Middle East, Africa and Asia Pacific.
+
+Subscribe to CNBC International TV for the very best of CNBC's international programming, including top business news moments and award-winning original documentaries and feature series.
+
+For real-time news updates from around the world, visit CNBC's website: http://www.cnbc.com
+
+Subscribe to our other YouTube channel here: https://www.youtube.com/user/CNBCInternational/
+
+Like our Facebook page
+www.facebook.com/cnbcinternational
+
+Follow us on Twitter
+https://twitter.com/CNBCi</description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AKedOLTp-jgI4ZhLymXBtrkwd2g9m1Sb2gBYCvA0BsoxqQ=s0</url>
+      <title>CNBC International TV</title>
+      <link>https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw</link>
+    </image>
+    <item>
+      <description><![CDATA[President of Kosovo Vjosa Osmani-Sadriu tells CNBC's Silvia Amaro why her country is pushing to join the EU, and how she perceives the bloc has dealt with the invasion of Ukraine.]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA[President of Kosovo: We deserve to be in EU]]></title>
+      <guid>d9BWNoplAr0</guid>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw</source>
+      <author>CNBC International TV</author>
+      <link>https://www.youtube.com/watch?v=d9BWNoplAr0</link>
+      <enclosure url="http://174.89.234.107:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/d9BWNoplAr0.mkv" length="15015590" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/d9BWNoplAr0/maxresdefault.webp"/>
+    </item>
+  </channel>
+</rss>
