@@ -444,5 +444,17 @@ https://twitter.com/CNBCi</description>
       <enclosure url="http://174.93.173.101:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/zdSA5s6RZ0Y.mkv" length="24402372" type="video/x-matroska"/>
       <itunes:image href="https://i.ytimg.com/vi/zdSA5s6RZ0Y/maxresdefault.jpg"/>
     </item>
+    <item>
+      <description><![CDATA[Andrew Lim of the real estate investment management company says Singapore's policy responses are meant to tame an engine that is showing signs of overheating.]]></description>
+      <category><![CDATA[News & Politics]]></category>
+      <title><![CDATA[Real estate prices in Singapore will take some time to 'level out': CapitaLand Investment]]></title>
+      <guid>zwWzCazYurA</guid>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw</source>
+      <author>CNBC International TV</author>
+      <link>https://www.youtube.com/watch?v=zwWzCazYurA</link>
+      <enclosure url="http://174.93.173.101:8080/UCF8HUTbUwPKh2Q-KpGOCVGw/zwWzCazYurA.mkv" length="51082821" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/zwWzCazYurA/maxresdefault.jpg"/>
+    </item>
   </channel>
 </rss>
